@@ -1,0 +1,9 @@
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\latrbjs.exe.config
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\latrbjs.exe
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\latrbjs.pdb
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\Newtonsoft.Json.dll
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\RabbitMQ.Client.dll
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\bin\Debug\Newtonsoft.Json.xml
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\obj\Debug\latrbjs.csprojResolveAssemblyReference.cache
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\obj\Debug\latrbjs.exe
+c:\users\ari\documents\visual studio 2015\Projects\latrbjs\latrbjs\obj\Debug\latrbjs.pdb
